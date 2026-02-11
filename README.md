@@ -2,7 +2,7 @@
 
 
 
-\*\*Nombre:\*\* Jenaro Alcaraz Saragosa  
+\*\*Nombre:\*\* Jenaro Alcaraz Saragosa
 
 \*\*Matrícula:\*\* A01646850
 
@@ -20,7 +20,7 @@ Repositorio personal para el curso TC2004B. Contiene notebooks y proyectos del s
 
 \## Estructura
 
-
+```text
 
 TC2004B-TuNombre/
 
@@ -32,7 +32,7 @@ TC2004B-TuNombre/
 
 └── data/          # Datasets (cuando aplique)
 
-
+```	
 
 \## Contenido por Semana
 
