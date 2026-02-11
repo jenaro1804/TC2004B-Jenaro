@@ -1,0 +1,20 @@
+INFORMACIÓN PERSONAL - TC2004B
+
+Nombre: Jenaro Alcaraz Saragosa
+Matrícula: A01646850
+Carrera: Ingeniería en Ciencia de Datos y Matemáticas
+Semestre: 4to
+
+¿Por qué tomé este curso?
+Lo tomé para aprender a usar git para crear mi propio repositorio
+
+¿Qué espero aprender?
+Shortcuts y como hacer la practica de programar mas sencilla
+
+Herramientas que ya conozco:
+- Colab
+- Jupyter
+
+Herramientas nuevas para mí:
+- Powershell
+- Git
